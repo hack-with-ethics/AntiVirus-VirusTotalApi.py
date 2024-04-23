@@ -29,3 +29,10 @@ And Also If The Signature Not Found Then the Upload File is Implemented
 ![Screenshot (123)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/6a08f158-1bed-44ae-8554-3e4193a65b30)
 
 5.Ip Scanning [--ip] :
+![Screenshot (127)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/9646ade1-55ca-421c-b489-3385f767ebce)
+
+![Screenshot (128)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/085e08a0-422b-42db-aca7-192cf0659660)
+
+6. Extension Scanning [--ext ] [Get All the File in The Extension and Scan Files ]:
+
+![Screenshot (126)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/fa50c7e8-79d7-499d-a549-6e6c1081a372)
