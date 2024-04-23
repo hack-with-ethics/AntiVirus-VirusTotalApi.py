@@ -11,12 +11,13 @@ And Also If The Signature Not Found Then the Upload File is Implemented
 # Approach [Av]:
       1. Signature Based Detection
       2. Heuristic-based detection
+      3.Ip Scanner
 1.Configuration
 
 ![Screenshot (124)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/660cd4a2-f032-46f0-b493-a6505ea8ae31)
 
 
-2.Normal File Response 
+2.Normal File Response [--f]
 
 ![Screenshot (121)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/ffeb640d-5e01-4e6f-a0a8-6478f290abc0)
 
@@ -27,3 +28,4 @@ And Also If The Signature Not Found Then the Upload File is Implemented
 4.Delete Config
 ![Screenshot (123)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/6a08f158-1bed-44ae-8554-3e4193a65b30)
 
+5.Ip Scanning [--ip] :
