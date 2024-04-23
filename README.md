@@ -9,9 +9,10 @@ Hello Hackers ! This a Python Code To Request python VirusTotalApi To Supply A s
 And Also If The Signature Not Found Then the Upload File is Implemented
 
 # Approach [Av]:
-      1. Signature Based Detection
-      2. Heuristic-based detection
-      3.Ip Scanner
+      1. Signature Based Detection[--f ]
+      2. Heuristic-based detection[--f]
+      3.Ip Scanner [--ip]
+      4.Extension Scanning [--ext]
 1.Configuration
 
 ![Screenshot (124)](https://github.com/hack-with-ethics/AntiVirus-VirusTotalApi.py/assets/111492120/660cd4a2-f032-46f0-b493-a6505ea8ae31)
